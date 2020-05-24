@@ -1,1 +1,6 @@
+#dirs
 data/
+workbook/NozPiker_Funcs/__pycache__/
+#types
+.pyc
+
