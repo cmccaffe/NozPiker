@@ -1,0 +1,96 @@
+9745	1590359702	1	9658	pdb2mrc 2QPS.pdb ALPHA-AMYLASETYPEAISOZYME_2QPS.mrc apix=1 res=3
+9745	1590359702	10	2QPS.pdb	
+9836	1590359780	1	9753	pdb2mrc 2QPS.pdb ALPHA-AMYLASETYPEAISOZYME_2QPS.mrc apix=1 res=3
+9836	1590359780	10	2QPS.pdb	
+9838	1590359797	1	9753	pdb2mrc 2QPS.pdb ALPHA-AMYLASETYPEAISOZYME_2QPS.mrc apix=1 res=3
+9838	1590359797	10	2QPS.pdb	
+9929	1590359863	1	9844	pdb2mrc 2QPS.pdb /home/cns-mccafferty/NozPiker/data/build_data/ALPHA-AMYLASETYPEAISOZYME_2QPS.mrc apix=1 res=3
+9929	1590359863	10	2QPS.pdb	
+10044	1590360106	1	9959	pdb2mrc /home/cns-mccafferty/NozPiker/data/build_data/2QPS.pdb /home/cns-mccafferty/NozPiker/data/build_data/ALPHA-AMYLASETYPEAISOZYME_2QPS.mrc apix=1 res=3
+10044	1590360106	10	/home/cns-mccafferty/NozPiker/data/build_data/2QPS.pdb	
+10044	1590360107	11	/home/cns-mccafferty/NozPiker/data/build_data/ALPHA-AMYLASETYPEAISOZYME_2QPS.mrc	
+10044	1590360107	2	-	
+10109	1590360109	1	9959	pdb2mrc /home/cns-mccafferty/NozPiker/data/build_data/6F4G.pdb /home/cns-mccafferty/NozPiker/data/build_data/PROBABLEU2SMALLNUCLEARRIBONUCLEOPROTEINA'_6F4G.mrc apix=1 res=3
+10109	1590360109	10	/home/cns-mccafferty/NozPiker/data/build_data/6F4G.pdb	
+10109	1590360109	11	/home/cns-mccafferty/NozPiker/data/build_data/PROBABLEU2SMALLNUCLEARRIBONUCLEOPROTEINA'_6F4G.mrc	
+10109	1590360109	2	-	
+10174	1590360111	1	9959	pdb2mrc /home/cns-mccafferty/NozPiker/data/build_data/5NQ2.pdb /home/cns-mccafferty/NozPiker/data/build_data/MHCCLASSIANTIGEN_5NQ2.mrc apix=1 res=3
+10174	1590360111	10	/home/cns-mccafferty/NozPiker/data/build_data/5NQ2.pdb	
+10174	1590360111	11	/home/cns-mccafferty/NozPiker/data/build_data/MHCCLASSIANTIGEN_5NQ2.mrc	
+10174	1590360111	2	-	
+10240	1590360113	1	9959	pdb2mrc /home/cns-mccafferty/NozPiker/data/build_data/5NQ3.pdb /home/cns-mccafferty/NozPiker/data/build_data/MHCCLASSIANTIGEN_5NQ3.mrc apix=1 res=3
+10240	1590360113	10	/home/cns-mccafferty/NozPiker/data/build_data/5NQ3.pdb	
+10240	1590360114	11	/home/cns-mccafferty/NozPiker/data/build_data/MHCCLASSIANTIGEN_5NQ3.mrc	
+10240	1590360114	2	-	
+10305	1590360118	1	9959	pdb2mrc /home/cns-mccafferty/NozPiker/data/build_data/2E5O.pdb /home/cns-mccafferty/NozPiker/data/build_data/ACTIVATINGSIGNALCOINTEGRATOR1_2E5O.mrc apix=1 res=3
+10305	1590360118	10	/home/cns-mccafferty/NozPiker/data/build_data/2E5O.pdb	
+10305	1590360118	11	/home/cns-mccafferty/NozPiker/data/build_data/ACTIVATINGSIGNALCOINTEGRATOR1_2E5O.mrc	
+10305	1590360118	2	-	
+10517	1590360524	1	10429	pdb2mrc /home/cns-mccafferty/NozPiker/data/build_data/2QPS.pdb /home/cns-mccafferty/NozPiker/data/build_data/ALPHA-AMYLASETYPEAISOZYME_2QPS.mrc apix=1 res=3
+10517	1590360524	10	/home/cns-mccafferty/NozPiker/data/build_data/2QPS.pdb	
+10517	1590360525	11	/home/cns-mccafferty/NozPiker/data/build_data/ALPHA-AMYLASETYPEAISOZYME_2QPS.mrc	
+10517	1590360525	2	-	
+10583	1590360527	1	10429	pdb2mrc /home/cns-mccafferty/NozPiker/data/build_data/6F4G.pdb /home/cns-mccafferty/NozPiker/data/build_data/PROBABLEU2SMALLNUCLEARRIBONUCLEOPROTEINA'_6F4G.mrc apix=1 res=3
+10583	1590360527	10	/home/cns-mccafferty/NozPiker/data/build_data/6F4G.pdb	
+10583	1590360528	11	/home/cns-mccafferty/NozPiker/data/build_data/PROBABLEU2SMALLNUCLEARRIBONUCLEOPROTEINA'_6F4G.mrc	
+10583	1590360528	2	-	
+10648	1590360530	1	10429	pdb2mrc /home/cns-mccafferty/NozPiker/data/build_data/5NQ2.pdb /home/cns-mccafferty/NozPiker/data/build_data/MHCCLASSIANTIGEN_5NQ2.mrc apix=1 res=3
+10648	1590360530	10	/home/cns-mccafferty/NozPiker/data/build_data/5NQ2.pdb	
+10648	1590360530	11	/home/cns-mccafferty/NozPiker/data/build_data/MHCCLASSIANTIGEN_5NQ2.mrc	
+10648	1590360530	2	-	
+10713	1590360533	1	10429	pdb2mrc /home/cns-mccafferty/NozPiker/data/build_data/5NQ3.pdb /home/cns-mccafferty/NozPiker/data/build_data/MHCCLASSIANTIGEN_5NQ3.mrc apix=1 res=3
+10713	1590360533	10	/home/cns-mccafferty/NozPiker/data/build_data/5NQ3.pdb	
+10713	1590360534	11	/home/cns-mccafferty/NozPiker/data/build_data/MHCCLASSIANTIGEN_5NQ3.mrc	
+10713	1590360534	2	-	
+10778	1590360544	1	10429	pdb2mrc /home/cns-mccafferty/NozPiker/data/build_data/2E5O.pdb /home/cns-mccafferty/NozPiker/data/build_data/ACTIVATINGSIGNALCOINTEGRATOR1_2E5O.mrc apix=1 res=3
+10778	1590360544	10	/home/cns-mccafferty/NozPiker/data/build_data/2E5O.pdb	
+10778	1590360544	11	/home/cns-mccafferty/NozPiker/data/build_data/ACTIVATINGSIGNALCOINTEGRATOR1_2E5O.mrc	
+10778	1590360544	2	-	
+10848	1590360561	1	10429	pdb2mrc /home/cns-mccafferty/NozPiker/data/build_data/2QPS.pdb /home/cns-mccafferty/NozPiker/data/build_data/ALPHA-AMYLASETYPEAISOZYME_2QPS.mrc apix=1 res=3
+10848	1590360561	10	/home/cns-mccafferty/NozPiker/data/build_data/2QPS.pdb	
+10848	1590360561	11	/home/cns-mccafferty/NozPiker/data/build_data/ALPHA-AMYLASETYPEAISOZYME_2QPS.mrc	
+10848	1590360561	2	-	
+10914	1590360592	1	10429	pdb2mrc /home/cns-mccafferty/NozPiker/data/build_data/2QPS.pdb /home/cns-mccafferty/NozPiker/data/build_data/ALPHA-AMYLASETYPEAISOZYME_2QPS.mrc apix=1 res=3
+10914	1590360592	10	/home/cns-mccafferty/NozPiker/data/build_data/2QPS.pdb	
+10914	1590360593	11	/home/cns-mccafferty/NozPiker/data/build_data/ALPHA-AMYLASETYPEAISOZYME_2QPS.mrc	
+10914	1590360593	2	-	
+10988	1590360629	1	10429	pdb2mrc /home/cns-mccafferty/NozPiker/data/build_data/2QPS.pdb /home/cns-mccafferty/NozPiker/data/build_data/ALPHA-AMYLASETYPEAISOZYME_2QPS.mrc apix=1 res=3
+10988	1590360629	10	/home/cns-mccafferty/NozPiker/data/build_data/2QPS.pdb	
+10988	1590360629	11	/home/cns-mccafferty/NozPiker/data/build_data/ALPHA-AMYLASETYPEAISOZYME_2QPS.mrc	
+10988	1590360629	2	-	
+11053	1590360633	1	10429	pdb2mrc /home/cns-mccafferty/NozPiker/data/build_data/6F4G.pdb /home/cns-mccafferty/NozPiker/data/build_data/PROBABLEU2SMALLNUCLEARRIBONUCLEOPROTEINA'_6F4G.mrc apix=1 res=3
+11053	1590360633	10	/home/cns-mccafferty/NozPiker/data/build_data/6F4G.pdb	
+11053	1590360633	11	/home/cns-mccafferty/NozPiker/data/build_data/PROBABLEU2SMALLNUCLEARRIBONUCLEOPROTEINA'_6F4G.mrc	
+11053	1590360633	2	-	
+11119	1590360635	1	10429	pdb2mrc /home/cns-mccafferty/NozPiker/data/build_data/5NQ2.pdb /home/cns-mccafferty/NozPiker/data/build_data/MHCCLASSIANTIGEN_5NQ2.mrc apix=1 res=3
+11119	1590360635	10	/home/cns-mccafferty/NozPiker/data/build_data/5NQ2.pdb	
+11119	1590360635	11	/home/cns-mccafferty/NozPiker/data/build_data/MHCCLASSIANTIGEN_5NQ2.mrc	
+11119	1590360635	2	-	
+11184	1590360639	1	10429	pdb2mrc /home/cns-mccafferty/NozPiker/data/build_data/5NQ3.pdb /home/cns-mccafferty/NozPiker/data/build_data/MHCCLASSIANTIGEN_5NQ3.mrc apix=1 res=3
+11184	1590360639	10	/home/cns-mccafferty/NozPiker/data/build_data/5NQ3.pdb	
+11184	1590360640	11	/home/cns-mccafferty/NozPiker/data/build_data/MHCCLASSIANTIGEN_5NQ3.mrc	
+11184	1590360640	2	-	
+11249	1590360652	1	10429	pdb2mrc /home/cns-mccafferty/NozPiker/data/build_data/2E5O.pdb /home/cns-mccafferty/NozPiker/data/build_data/ACTIVATINGSIGNALCOINTEGRATOR1_2E5O.mrc apix=1 res=3
+11249	1590360652	10	/home/cns-mccafferty/NozPiker/data/build_data/2E5O.pdb	
+11249	1590360652	11	/home/cns-mccafferty/NozPiker/data/build_data/ACTIVATINGSIGNALCOINTEGRATOR1_2E5O.mrc	
+11249	1590360652	2	-	
+11465	1590361505	1	11378	pdb2mrc /home/cns-mccafferty/NozPiker/data/build_data/2QPS.pdb /home/cns-mccafferty/NozPiker/data/build_data/ALPHA-AMYLASETYPEAISOZYME_2QPS.mrc apix=1 res=3 center
+11465	1590361505	10	/home/cns-mccafferty/NozPiker/data/build_data/2QPS.pdb	
+11465	1590361505	11	/home/cns-mccafferty/NozPiker/data/build_data/ALPHA-AMYLASETYPEAISOZYME_2QPS.mrc	
+11465	1590361505	2	-	
+11531	1590361507	1	11378	pdb2mrc /home/cns-mccafferty/NozPiker/data/build_data/6F4G.pdb /home/cns-mccafferty/NozPiker/data/build_data/PROBABLEU2SMALLNUCLEARRIBONUCLEOPROTEINA'_6F4G.mrc apix=1 res=3 center
+11531	1590361507	10	/home/cns-mccafferty/NozPiker/data/build_data/6F4G.pdb	
+11531	1590361508	11	/home/cns-mccafferty/NozPiker/data/build_data/PROBABLEU2SMALLNUCLEARRIBONUCLEOPROTEINA'_6F4G.mrc	
+11531	1590361508	2	-	
+11596	1590361510	1	11378	pdb2mrc /home/cns-mccafferty/NozPiker/data/build_data/5NQ2.pdb /home/cns-mccafferty/NozPiker/data/build_data/MHCCLASSIANTIGEN_5NQ2.mrc apix=1 res=3 center
+11596	1590361510	10	/home/cns-mccafferty/NozPiker/data/build_data/5NQ2.pdb	
+11596	1590361510	11	/home/cns-mccafferty/NozPiker/data/build_data/MHCCLASSIANTIGEN_5NQ2.mrc	
+11596	1590361510	2	-	
+11661	1590361512	1	11378	pdb2mrc /home/cns-mccafferty/NozPiker/data/build_data/5NQ3.pdb /home/cns-mccafferty/NozPiker/data/build_data/MHCCLASSIANTIGEN_5NQ3.mrc apix=1 res=3 center
+11661	1590361512	10	/home/cns-mccafferty/NozPiker/data/build_data/5NQ3.pdb	
+11661	1590361513	11	/home/cns-mccafferty/NozPiker/data/build_data/MHCCLASSIANTIGEN_5NQ3.mrc	
+11661	1590361513	2	-	
+11726	1590361516	1	11378	pdb2mrc /home/cns-mccafferty/NozPiker/data/build_data/2E5O.pdb /home/cns-mccafferty/NozPiker/data/build_data/ACTIVATINGSIGNALCOINTEGRATOR1_2E5O.mrc apix=1 res=3 center
+11726	1590361516	10	/home/cns-mccafferty/NozPiker/data/build_data/2E5O.pdb	
+11726	1590361516	11	/home/cns-mccafferty/NozPiker/data/build_data/ACTIVATINGSIGNALCOINTEGRATOR1_2E5O.mrc	
+11726	1590361516	2	-	

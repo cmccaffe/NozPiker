@@ -28,3 +28,29 @@ def CreateTrainingData(store):
             train_images[(loc*length)+i,:,:] = array
             train_labels[(loc*length)+i] = loc
     return train_images, train_labels, class_names
+
+
+# takes list of pdbs and converts to projected mrcs
+def makeImages(path, pdbinput):
+    from biopandas.pdb import PandasPdb
+    import subprocess
+    import os
+    ppdb = PandasPdb().fetch_pdb(pdbinput)
+    COMPNDdf = ppdb.df['OTHERS'].loc[ppdb.df['OTHERS']['record_name']  == 'COMPND']
+    moleculeline = COMPNDdf[COMPNDdf['entry'].str.contains(" MOLECULE:")]['entry'].iloc[0]
+    moleculename = moleculeline[moleculeline.find(':')+1 : moleculeline.find(';')].replace(' ', '')
+    ppdb.to_pdb(path=path + pdbinput + '.pdb')
+    print(moleculename)
+
+    # lowpass filter pdb to resolution 3
+    subprocess.run(['/programs/x86_64-linux/eman/1.9/bin/pdb2mrc', path + pdbinput + '.pdb', path + moleculename + '_' + pdbinput + '.mrc', 'apix=1', 'res=3', 'center'])
+    subprocess.run(['/programs/x86_64-linux/relion/3.0.8/bin/relion_project', '--i', path + moleculename + '_' + pdbinput + '.mrc', '--o', path + moleculename + '_' + pdbinput + '_proj', '--nr_uniform', '30'])
+
+
+    # delete pdb and mrc files
+    os.remove(path + pdbinput + '.pdb')
+    os.remove(path + moleculename + '_' + pdbinput + '.mrc')
+    os.remove(path + moleculename + '_' + pdbinput + '_proj.star')
+
+    mrcname = moleculename + '_' + pdbinput + '_proj.mrcs'
+    return moleculename, mrcname
