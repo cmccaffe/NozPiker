@@ -13,25 +13,26 @@ def GetImageSet(mrc,name,store):
 # function to create training data
 def CreateTrainingData(store, size):
     from numpy import array, where, zeros, min, max, resize, transpose
-    from tensorflow.image import resize_with_crop_or_pad
+    from tensorflow_core.image import resize_with_crop_or_pad
     # Get Dict keys
     class_names = array(sorted(store.keys()))
     # Pre-allocate arrays
     key = class_names[0]
     length = len(store[key])
     shape = (size,size)
-    train_images = zeros((length,shape[0],shape[1]))
-    train_labels = zeros(length)
+    # train_images = zeros((length*len(class_names),shape[0],shape[1]))
+    train_images = zeros((length*len(class_names),shape[0],shape[1]), dtype='uint8')
+    train_labels = zeros(length*len(class_names))
     # Load images and labels
     for key in class_names:
         loc = where(class_names == key)[0]
         # Add images
-                if store[key][1].shape[1] < size:
+        if store[key][1].shape[1] < size:
             for i in range(len(store[key])):
                 array = (store[key][i] - min(store[key][i]))/(max(store[key][i]) - min(store[key][i]))
                 array = resize(array,(array.shape[0],array.shape[1],1))
                 array = resize_with_crop_or_pad(array,size,size)
-                array = np.transpose(array,(2,0,1))
+                array = transpose(array,(2,0,1))
                 train_images[(loc*length)+i,:,:] = array
                 train_labels[(loc*length)+i] = loc
     return train_images, train_labels, class_names
@@ -45,6 +46,7 @@ def makeImages(path, pdbinput):
     COMPNDdf = ppdb.df['OTHERS'].loc[ppdb.df['OTHERS']['record_name']  == 'COMPND']
     moleculeline = COMPNDdf[COMPNDdf['entry'].str.contains(" MOLECULE:")]['entry'].iloc[0]
     moleculename = moleculeline[moleculeline.find(':')+1 : moleculeline.find(';')].replace(' ', '')
+    moleculename =''.join(e for e in moleculename if e.isalnum())
     ppdb.to_pdb(path=path + pdbinput + '.pdb')
     print(moleculename)
 
@@ -55,8 +57,15 @@ def makeImages(path, pdbinput):
 
     # delete pdb and mrc files
     os.remove(path + pdbinput + '.pdb')
-    os.remove(path + moleculename + '_' + pdbinput + '.mrc')
-    os.remove(path + moleculename + '_' + pdbinput + '_proj.star')
+    try:
+        os.remove(path + moleculename + '_' + pdbinput + '.mrc')
+    except FileNotFoundError:
+        pass
+    
+    try:
+        os.remove(path + moleculename + '_' + pdbinput + '_proj.star')
+    except FileNotFoundError:
+        pass
 
     mrcname = moleculename + '_' + pdbinput + '_proj.mrcs'
     return moleculename, mrcname
