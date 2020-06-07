@@ -1,5 +1,3 @@
-import tensorflow as tf
-from tensorflow import keras
 import pickle
 import os
 import numpy as np
@@ -9,6 +7,8 @@ from biopandas.pdb import PandasPdb
 import subprocess
 import os
 import glob
+
+print("The script is beginning now")
 
 DATA_DIR = os.path.join(os.path.dirname(os.getcwd()),'data/build_data/')
 
@@ -36,6 +36,9 @@ pdblist.remove('1C4S')
 pdblist.remove('1CAP')
 
 l3 = [x for x in pdblist if x not in madefiles]
+print("The list is now shorter")
+print(len(l3))
+
 for i in l3:
     try:
         NZ.makeImages(DATA_DIR, i)
