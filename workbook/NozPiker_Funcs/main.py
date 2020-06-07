@@ -13,7 +13,7 @@ def GetImageSet(mrc,name,store):
 # function to create training data
 def CreateTrainingData(store, size):
     from numpy import array, where, zeros, min, max, resize, transpose
-    from tensorflow_core.image import resize_with_crop_or_pad
+    from tensorflow.image import resize_with_crop_or_pad
     # Get Dict keys
     class_names = array(sorted(store.keys()))
     # Pre-allocate arrays
