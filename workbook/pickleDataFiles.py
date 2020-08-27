@@ -19,6 +19,11 @@ for MRC in MRC_PATHS:
 
 train_images, train_labels, class_names = NZ.CreateTrainingData(store,size)
 
+print("All data has been processed")
+
 pickle.dump(train_images, open(DATA_DIR + "train_images.pkl", "w"))
 pickle.dump(train_labels, open(DATA_DIR + "train_labels.pkl", "w"))
 pickle.dump(class_names, open(DATA_DIR + "class_names.pkl", "w"))
+pickle.dump(size, open(DATA_DIR + "size.pkl", "w"))
+
+print("All data has been pickled.")
