@@ -1,0 +1,976 @@
+98563	1591562119	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/4YE9.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/GLUTAMINETRNALIGASE_4YE9.mrc apix=1 res=3 center
+98563	1591562119	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/4YE9.pdb	
+98563	1591562120	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/GLUTAMINETRNALIGASE_4YE9.mrc	
+98563	1591562120	2	-	
+98628	1591562132	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5IJ0.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_5IJ0.mrc apix=1 res=3 center
+98628	1591562132	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5IJ0.pdb	
+98628	1591562133	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_5IJ0.mrc	
+98628	1591562133	2	-	
+98694	1591562149	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6GWD.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/ALPHATUBULIN_6GWD.mrc apix=1 res=3 center
+98694	1591562149	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6GWD.pdb	
+98694	1591562152	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/ALPHATUBULIN_6GWD.mrc	
+98694	1591562152	2	-	
+98760	1591562166	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6B0I.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_6B0I.mrc apix=1 res=3 center
+98760	1591562166	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6B0I.pdb	
+98760	1591562167	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_6B0I.mrc	
+98760	1591562167	2	-	
+98825	1591562180	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5NFZ.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_5NFZ.mrc apix=1 res=3 center
+98825	1591562180	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5NFZ.pdb	
+98825	1591562182	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_5NFZ.mrc	
+98825	1591562182	2	-	
+98890	1591562194	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/3J6P.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/DYNEINHEAVYCHAINCYTOPLASMIC_3J6P.mrc apix=1 res=3 center
+98890	1591562194	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/3J6P.pdb	
+98890	1591562195	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/DYNEINHEAVYCHAINCYTOPLASMIC_3J6P.mrc	
+98890	1591562195	2	-	
+98955	1591562203	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5M5C.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/CALMODULINREGULATEDSPECTRINASSOCIATEDPROTEIN1_5M5C.mrc apix=1 res=3 center
+98955	1591562203	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5M5C.pdb	
+98955	1591562205	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/CALMODULINREGULATEDSPECTRINASSOCIATEDPROTEIN1_5M5C.mrc	
+98955	1591562205	2	-	
+99023	1591562226	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5XXT.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1ACHAIN_5XXT.mrc apix=1 res=3 center
+99023	1591562227	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5XXT.pdb	
+99023	1591562233	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1ACHAIN_5XXT.mrc	
+99023	1591562233	2	-	
+99091	1591562255	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5XLZ.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_5XLZ.mrc apix=1 res=3 center
+99091	1591562255	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5XLZ.pdb	
+99091	1591562259	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_5XLZ.mrc	
+99091	1591562259	2	-	
+99156	1591562270	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6N47.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_6N47.mrc apix=1 res=3 center
+99156	1591562270	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6N47.pdb	
+99156	1591562272	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_6N47.mrc	
+99156	1591562272	2	-	
+99223	1591562295	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/3J6G.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1ACHAIN_3J6G.mrc apix=1 res=3 center
+99223	1591562295	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/3J6G.pdb	
+99223	1591562302	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1ACHAIN_3J6G.mrc	
+99223	1591562302	2	-	
+99291	1591562318	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5SYG.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHACHAIN_5SYG.mrc apix=1 res=3 center
+99291	1591562318	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5SYG.pdb	
+99291	1591562318	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHACHAIN_5SYG.mrc	
+99291	1591562319	2	-	
+99358	1591562333	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5ND2.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/KINESINLIKEPROTEINKIF20A_5ND2.mrc apix=1 res=3 center
+99358	1591562333	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5ND2.pdb	
+99358	1591562334	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/KINESINLIKEPROTEINKIF20A_5ND2.mrc	
+99358	1591562335	2	-	
+99425	1591562349	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/3JAS.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_3JAS.mrc apix=1 res=3 center
+99425	1591562349	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/3JAS.pdb	
+99425	1591562353	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_3JAS.mrc	
+99425	1591562353	2	-	
+99493	1591562367	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5LA6.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_5LA6.mrc apix=1 res=3 center
+99493	1591562367	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5LA6.pdb	
+99493	1591562369	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_5LA6.mrc	
+99493	1591562369	2	-	
+99558	1591562376	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6QQN.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_6QQN.mrc apix=1 res=3 center
+99558	1591562377	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6QQN.pdb	
+99558	1591562379	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_6QQN.mrc	
+99558	1591562379	2	-	
+99625	1591562390	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/4TV8.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_4TV8.mrc apix=1 res=3 center
+99625	1591562390	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/4TV8.pdb	
+99625	1591562393	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_4TV8.mrc	
+99625	1591562393	2	-	
+99691	1591562402	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/1IA0.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHACHAIN_1IA0.mrc apix=1 res=3 center
+99691	1591562402	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/1IA0.pdb	
+99691	1591562403	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHACHAIN_1IA0.mrc	
+99691	1591562404	2	-	
+99757	1591562410	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5OV7.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_5OV7.mrc apix=1 res=3 center
+99757	1591562410	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5OV7.pdb	
+99757	1591562412	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_5OV7.mrc	
+99757	1591562412	2	-	
+99822	1591562420	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5HNW.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_5HNW.mrc apix=1 res=3 center
+99822	1591562420	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5HNW.pdb	
+99822	1591562421	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_5HNW.mrc	
+99822	1591562421	2	-	
+99887	1591562428	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5NM5.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_5NM5.mrc apix=1 res=3 center
+99887	1591562428	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5NM5.pdb	
+99887	1591562430	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_5NM5.mrc	
+99887	1591562430	2	-	
+99952	1591562434	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/4O4L.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_4O4L.mrc apix=1 res=3 center
+99952	1591562434	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/4O4L.pdb	
+99952	1591562437	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_4O4L.mrc	
+99952	1591562437	2	-	
+100022	1591562445	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/4UXO.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_4UXO.mrc apix=1 res=3 center
+100022	1591562445	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/4UXO.pdb	
+100022	1591562445	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_4UXO.mrc	
+100022	1591562445	2	-	
+100087	1591562452	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/2XRP.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINBETA2BCHAIN_2XRP.mrc apix=1 res=3 center
+100087	1591562452	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/2XRP.pdb	
+100087	1591562455	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINBETA2BCHAIN_2XRP.mrc	
+100087	1591562455	2	-	
+100152	1591562465	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5NQU.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_5NQU.mrc apix=1 res=3 center
+100152	1591562465	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5NQU.pdb	
+100152	1591562467	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_5NQU.mrc	
+100152	1591562467	2	-	
+100218	1591562473	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/3HKE.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHACHAIN_3HKE.mrc apix=1 res=3 center
+100218	1591562473	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/3HKE.pdb	
+100218	1591562475	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHACHAIN_3HKE.mrc	
+100218	1591562475	2	-	
+100283	1591562481	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/4UXS.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_4UXS.mrc apix=1 res=3 center
+100283	1591562481	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/4UXS.pdb	
+100283	1591562481	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_4UXS.mrc	
+100283	1591562481	2	-	
+100348	1591562485	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6PC4.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_6PC4.mrc apix=1 res=3 center
+100348	1591562485	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6PC4.pdb	
+100348	1591562488	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_6PC4.mrc	
+100348	1591562488	2	-	
+100413	1591562498	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6GWC.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/ALPHATUBULIN_6GWC.mrc apix=1 res=3 center
+100413	1591562498	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6GWC.pdb	
+100413	1591562499	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/ALPHATUBULIN_6GWC.mrc	
+100413	1591562499	2	-	
+100478	1591562508	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6EW0.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_6EW0.mrc apix=1 res=3 center
+100478	1591562508	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6EW0.pdb	
+100478	1591562513	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_6EW0.mrc	
+100478	1591562513	2	-	
+100544	1591562522	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6HX8.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_6HX8.mrc apix=1 res=3 center
+100544	1591562522	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6HX8.pdb	
+100544	1591562524	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_6HX8.mrc	
+100544	1591562524	2	-	
+100612	1591562532	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/2P4N.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/KINESINHEAVYCHAIN_2P4N.mrc apix=1 res=3 center
+100612	1591562532	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/2P4N.pdb	
+100612	1591562533	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/KINESINHEAVYCHAIN_2P4N.mrc	
+100612	1591562533	2	-	
+100677	1591562539	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5O7A.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_5O7A.mrc apix=1 res=3 center
+100677	1591562539	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5O7A.pdb	
+100677	1591562541	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_5O7A.mrc	
+100677	1591562541	2	-	
+100744	1591562554	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5T0J.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/26SPROTEASOMENONATPASEREGULATORYSUBUNIT2_5T0J.mrc apix=1 res=3 center
+100744	1591562554	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5T0J.pdb	
+100744	1591562562	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/26SPROTEASOMENONATPASEREGULATORYSUBUNIT2_5T0J.mrc	
+100744	1591562562	2	-	
+100811	1591562576	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5NQT.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_5NQT.mrc apix=1 res=3 center
+100811	1591562576	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5NQT.pdb	
+100811	1591562579	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_5NQT.mrc	
+100811	1591562579	2	-	
+100878	1591562584	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/4CK7.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1DCHAIN_4CK7.mrc apix=1 res=3 center
+100878	1591562584	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/4CK7.pdb	
+100878	1591562584	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1DCHAIN_4CK7.mrc	
+100878	1591562584	2	-	
+100945	1591562590	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6EVZ.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINBETACHAIN_6EVZ.mrc apix=1 res=3 center
+100945	1591562590	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6EVZ.pdb	
+100945	1591562595	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINBETACHAIN_6EVZ.mrc	
+100945	1591562595	2	-	
+101011	1591562608	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5L4K.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/26SPROTEASOMENONATPASEREGULATORYSUBUNIT4_5L4K.mrc apix=1 res=3 center
+101011	1591562608	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5L4K.pdb	
+101011	1591562616	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/26SPROTEASOMENONATPASEREGULATORYSUBUNIT4_5L4K.mrc	
+101011	1591562616	2	-	
+101076	1591562628	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6QUY.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_6QUY.mrc apix=1 res=3 center
+101076	1591562628	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6QUY.pdb	
+101076	1591562630	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_6QUY.mrc	
+101076	1591562630	2	-	
+101141	1591562634	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/1TVK.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHACHAIN_1TVK.mrc apix=1 res=3 center
+101141	1591562634	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/1TVK.pdb	
+101141	1591562635	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHACHAIN_1TVK.mrc	
+101141	1591562635	2	-	
+101206	1591562638	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6RF2.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_6RF2.mrc apix=1 res=3 center
+101206	1591562638	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6RF2.pdb	
+101206	1591562640	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_6RF2.mrc	
+101206	1591562640	2	-	
+101271	1591562644	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/3ZYS.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/DYNAMIN1_3ZYS.mrc apix=1 res=3 center
+101271	1591562644	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/3ZYS.pdb	
+101271	1591562646	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/DYNAMIN1_3ZYS.mrc	
+101271	1591562647	2	-	
+101337	1591562663	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/3J1T.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/CYTOPLASMICDYNEIN1HEAVYCHAIN1SERYLTRNASYNTHETAS_3J1T.mrc apix=1 res=3 center
+101337	1591562663	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/3J1T.pdb	
+101337	1591562664	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/CYTOPLASMICDYNEIN1HEAVYCHAIN1SERYLTRNASYNTHETAS_3J1T.mrc	
+101337	1591562664	2	-	
+101403	1591562671	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5XXX.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1ACHAIN_5XXX.mrc apix=1 res=3 center
+101403	1591562671	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5XXX.pdb	
+101403	1591562678	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1ACHAIN_5XXX.mrc	
+101403	1591562678	2	-	
+101469	1591562689	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6RLA.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/O6ALKYLGUANINEDNAALKYLTRANSFERASEMUTANTDYNC2H1VARIAN_6RLA.mrc apix=1 res=3 center
+101469	1591562689	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6RLA.pdb	
+101469	1591562694	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/O6ALKYLGUANINEDNAALKYLTRANSFERASEMUTANTDYNC2H1VARIAN_6RLA.mrc	
+101469	1591562694	2	-	
+101538	1591562703	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6BS2.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_6BS2.mrc apix=1 res=3 center
+101538	1591562703	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6BS2.pdb	
+101538	1591562705	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_6BS2.mrc	
+101538	1591562705	2	-	
+101604	1591562714	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/1XI5.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/CLATHRINHEAVYCHAIN_1XI5.mrc apix=1 res=3 center
+101604	1591562714	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/1XI5.pdb	
+101604	1591562722	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/CLATHRINHEAVYCHAIN_1XI5.mrc	
+101604	1591562722	2	-	
+101673	1591562765	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6GVM.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHACHAIN_6GVM.mrc apix=1 res=3 center
+101673	1591562765	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6GVM.pdb	
+101673	1591562766	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHACHAIN_6GVM.mrc	
+101673	1591562766	2	-	
+101740	1591562769	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/4R3Z.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/AMINOACYLTRNASYNTHASECOMPLEXINTERACTINGMULTIFUNCTIONA_4R3Z.mrc apix=1 res=3 center
+101740	1591562769	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/4R3Z.pdb	
+101740	1591562771	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/AMINOACYLTRNASYNTHASECOMPLEXINTERACTINGMULTIFUNCTIONA_4R3Z.mrc	
+101740	1591562771	2	-	
+101808	1591562779	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5XLT.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_5XLT.mrc apix=1 res=3 center
+101808	1591562779	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5XLT.pdb	
+101808	1591562782	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_5XLT.mrc	
+101808	1591562783	2	-	
+101873	1591562791	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6DPV.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_6DPV.mrc apix=1 res=3 center
+101873	1591562792	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6DPV.pdb	
+101873	1591562796	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_6DPV.mrc	
+101873	1591562796	2	-	
+101938	1591562806	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5M5L.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1DCHAIN_5M5L.mrc apix=1 res=3 center
+101938	1591562806	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5M5L.pdb	
+101938	1591562806	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1DCHAIN_5M5L.mrc	
+101938	1591562806	2	-	
+102003	1591562811	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/4AQW.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1DCHAIN_4AQW.mrc apix=1 res=3 center
+102003	1591562811	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/4AQW.pdb	
+102003	1591562812	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1DCHAIN_4AQW.mrc	
+102003	1591562812	2	-	
+102069	1591562818	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/3JAK.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_3JAK.mrc apix=1 res=3 center
+102069	1591562818	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/3JAK.pdb	
+102069	1591562823	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_3JAK.mrc	
+102069	1591562823	2	-	
+102135	1591562833	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5SYC.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHACHAIN_5SYC.mrc apix=1 res=3 center
+102135	1591562833	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5SYC.pdb	
+102135	1591562834	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHACHAIN_5SYC.mrc	
+102135	1591562834	2	-	
+102200	1591562836	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/3E22.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1CCHAIN_3E22.mrc apix=1 res=3 center
+102200	1591562836	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/3E22.pdb	
+102200	1591562838	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1CCHAIN_3E22.mrc	
+102200	1591562838	2	-	
+102265	1591562845	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/1SA1.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHACHAIN_1SA1.mrc apix=1 res=3 center
+102265	1591562845	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/1SA1.pdb	
+102265	1591562847	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHACHAIN_1SA1.mrc	
+102265	1591562847	2	-	
+102333	1591562858	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/4PJ1.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/60KDAHEATSHOCKPROTEINMITOCHONDRIAL_4PJ1.mrc apix=1 res=3 center
+102333	1591562858	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/4PJ1.pdb	
+102333	1591562865	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/60KDAHEATSHOCKPROTEINMITOCHONDRIAL_4PJ1.mrc	
+102333	1591562865	2	-	
+102399	1591562876	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6AGK.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_6AGK.mrc apix=1 res=3 center
+102399	1591562876	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6AGK.pdb	
+102399	1591562878	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_6AGK.mrc	
+102399	1591562879	2	-	
+102464	1591562887	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5KMG.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_5KMG.mrc apix=1 res=3 center
+102464	1591562887	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5KMG.pdb	
+102464	1591562888	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_5KMG.mrc	
+102464	1591562888	2	-	
+102531	1591562892	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6TA3.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINBETACHAIN_6TA3.mrc apix=1 res=3 center
+102531	1591562892	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6TA3.pdb	
+102531	1591562893	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINBETACHAIN_6TA3.mrc	
+102531	1591562893	2	-	
+102597	1591562898	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6GJ4.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_6GJ4.mrc apix=1 res=3 center
+102597	1591562898	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6GJ4.pdb	
+102597	1591562900	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_6GJ4.mrc	
+102597	1591562900	2	-	
+102662	1591562909	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6EVX.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINBETACHAIN_6EVX.mrc apix=1 res=3 center
+102662	1591562909	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6EVX.pdb	
+102662	1591562913	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINBETACHAIN_6EVX.mrc	
+102662	1591562913	2	-	
+102738	1591562924	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/4LNU.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHACHAIN_4LNU.mrc apix=1 res=3 center
+102738	1591562924	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/4LNU.pdb	
+102738	1591562925	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHACHAIN_4LNU.mrc	
+102738	1591562926	2	-	
+102808	1591562930	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/3J6H.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1ACHAIN_3J6H.mrc apix=1 res=3 center
+102808	1591562930	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/3J6H.pdb	
+102808	1591562932	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1ACHAIN_3J6H.mrc	
+102808	1591562932	2	-	
+102877	1591562935	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5NJH.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_5NJH.mrc apix=1 res=3 center
+102877	1591562935	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5NJH.pdb	
+102877	1591562937	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_5NJH.mrc	
+102877	1591562937	2	-	
+102972	1591562949	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5VFT.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/26SPROTEASOMENONATPASEREGULATORYSUBUNIT1_5VFT.mrc apix=1 res=3 center
+102972	1591562949	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5VFT.pdb	
+102972	1591562959	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/26SPROTEASOMENONATPASEREGULATORYSUBUNIT1_5VFT.mrc	
+102972	1591562959	2	-	
+103053	1591562979	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5Z4U.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_5Z4U.mrc apix=1 res=3 center
+103053	1591562979	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5Z4U.pdb	
+103053	1591562981	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_5Z4U.mrc	
+103053	1591562981	2	-	
+103118	1591562990	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/4X1Y.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHACHAIN_4X1Y.mrc apix=1 res=3 center
+103118	1591562990	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/4X1Y.pdb	
+103118	1591562992	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHACHAIN_4X1Y.mrc	
+103118	1591562992	2	-	
+103185	1591562997	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/4F6R.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHACHAIN_4F6R.mrc apix=1 res=3 center
+103185	1591562997	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/4F6R.pdb	
+103185	1591562999	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHACHAIN_4F6R.mrc	
+103185	1591562999	2	-	
+103250	1591563003	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/1JFF.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHACHAIN_1JFF.mrc apix=1 res=3 center
+103250	1591563003	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/1JFF.pdb	
+103250	1591563004	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHACHAIN_1JFF.mrc	
+103250	1591563004	2	-	
+103315	1591563007	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5M5M.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1DCHAIN_5M5M.mrc apix=1 res=3 center
+103315	1591563007	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5M5M.pdb	
+103315	1591563007	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1DCHAIN_5M5M.mrc	
+103315	1591563007	2	-	
+103381	1591563025	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6O5N.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_6O5N.mrc apix=1 res=3 center
+103381	1591563025	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6O5N.pdb	
+103381	1591563027	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_6O5N.mrc	
+103381	1591563027	2	-	
+103448	1591563041	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6WVM.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_6WVM.mrc apix=1 res=3 center
+103448	1591563041	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6WVM.pdb	
+103448	1591563043	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_6WVM.mrc	
+103448	1591563044	2	-	
+103513	1591563051	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/4X20.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHACHAIN_4X20.mrc apix=1 res=3 center
+103513	1591563051	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/4X20.pdb	
+103513	1591563053	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHACHAIN_4X20.mrc	
+103513	1591563053	2	-	
+103579	1591563070	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5LXT.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_5LXT.mrc apix=1 res=3 center
+103579	1591563070	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5LXT.pdb	
+103579	1591563073	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_5LXT.mrc	
+103579	1591563073	2	-	
+103646	1591563084	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5GON.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_5GON.mrc apix=1 res=3 center
+103646	1591563084	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5GON.pdb	
+103646	1591563086	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_5GON.mrc	
+103646	1591563086	2	-	
+103711	1591563095	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5SYE.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHACHAIN_5SYE.mrc apix=1 res=3 center
+103711	1591563095	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5SYE.pdb	
+103711	1591563096	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHACHAIN_5SYE.mrc	
+103711	1591563096	2	-	
+103776	1591563101	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/4UXR.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_4UXR.mrc apix=1 res=3 center
+103776	1591563101	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/4UXR.pdb	
+103776	1591563101	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_4UXR.mrc	
+103776	1591563101	2	-	
+103841	1591563110	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/4ABO.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINBETACHAIN_4ABO.mrc apix=1 res=3 center
+103841	1591563110	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/4ABO.pdb	
+103841	1591563113	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINBETACHAIN_4ABO.mrc	
+103841	1591563113	2	-	
+103907	1591563124	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/3HKD.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHACHAIN_3HKD.mrc apix=1 res=3 center
+103907	1591563124	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/3HKD.pdb	
+103907	1591563126	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHACHAIN_3HKD.mrc	
+103907	1591563126	2	-	
+103974	1591563134	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/4YE6.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/GLUTAMINETRNALIGASE_4YE6.mrc apix=1 res=3 center
+103974	1591563135	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/4YE6.pdb	
+103974	1591563135	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/GLUTAMINETRNALIGASE_4YE6.mrc	
+103974	1591563135	2	-	
+104039	1591563145	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/3HKB.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHACHAIN_3HKB.mrc apix=1 res=3 center
+104039	1591563145	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/3HKB.pdb	
+104039	1591563147	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHACHAIN_3HKB.mrc	
+104039	1591563147	2	-	
+104106	1591563164	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5JCO.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINBETA3CHAIN_5JCO.mrc apix=1 res=3 center
+104106	1591563164	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5JCO.pdb	
+104106	1591563169	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINBETA3CHAIN_5JCO.mrc	
+104106	1591563170	2	-	
+104171	1591563180	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5OCU.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/KINESINLIKEPROTEINKIF18A_5OCU.mrc apix=1 res=3 center
+104171	1591563180	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5OCU.pdb	
+104171	1591563181	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/KINESINLIKEPROTEINKIF18A_5OCU.mrc	
+104171	1591563181	2	-	
+104240	1591563220	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5T0H.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/26SPROTEASEREGULATORYSUBUNIT7_5T0H.mrc apix=1 res=3 center
+104240	1591563220	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5T0H.pdb	
+104240	1591563228	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/26SPROTEASEREGULATORYSUBUNIT7_5T0H.mrc	
+104240	1591563228	2	-	
+104308	1591563255	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6GZE.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_6GZE.mrc apix=1 res=3 center
+104308	1591563255	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6GZE.pdb	
+104308	1591563258	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_6GZE.mrc	
+104308	1591563258	2	-	
+104375	1591563266	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6RFD.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_6RFD.mrc apix=1 res=3 center
+104375	1591563266	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6RFD.pdb	
+104375	1591563269	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_6RFD.mrc	
+104375	1591563269	2	-	
+104440	1591563278	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/1Z2B.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHACHAIN_1Z2B.mrc apix=1 res=3 center
+104440	1591563278	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/1Z2B.pdb	
+104440	1591563279	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHACHAIN_1Z2B.mrc	
+104440	1591563280	2	-	
+104505	1591563296	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5M7E.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_5M7E.mrc apix=1 res=3 center
+104505	1591563296	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5M7E.pdb	
+104505	1591563299	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_5M7E.mrc	
+104505	1591563299	2	-	
+104575	1591563310	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6KIO.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINBETACHAIN_6KIO.mrc apix=1 res=3 center
+104575	1591563310	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6KIO.pdb	
+104575	1591563312	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINBETACHAIN_6KIO.mrc	
+104575	1591563312	2	-	
+104641	1591563324	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6WVL.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_6WVL.mrc apix=1 res=3 center
+104641	1591563324	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6WVL.pdb	
+104641	1591563327	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_6WVL.mrc	
+104641	1591563327	2	-	
+104709	1591563339	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5ND7.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/KINESINLIKEPROTEINKIF20A_5ND7.mrc apix=1 res=3 center
+104709	1591563339	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5ND7.pdb	
+104709	1591563340	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/KINESINLIKEPROTEINKIF20A_5ND7.mrc	
+104709	1591563340	2	-	
+104775	1591563345	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5HNX.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_5HNX.mrc apix=1 res=3 center
+104775	1591563345	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5HNX.pdb	
+104775	1591563347	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_5HNX.mrc	
+104775	1591563347	2	-	
+104840	1591563357	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6BRY.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_6BRY.mrc apix=1 res=3 center
+104840	1591563357	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6BRY.pdb	
+104840	1591563359	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_6BRY.mrc	
+104840	1591563359	2	-	
+104906	1591563376	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5NG1.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_5NG1.mrc apix=1 res=3 center
+104906	1591563376	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5NG1.pdb	
+104906	1591563386	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_5NG1.mrc	
+104906	1591563386	2	-	
+104971	1591563401	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5M8G.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_5M8G.mrc apix=1 res=3 center
+104971	1591563401	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5M8G.pdb	
+104971	1591563403	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_5M8G.mrc	
+104971	1591563403	2	-	
+105038	1591563423	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6S9E.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_6S9E.mrc apix=1 res=3 center
+105038	1591563423	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6S9E.pdb	
+105038	1591563426	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_6S9E.mrc	
+105038	1591563426	2	-	
+105107	1591563449	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5NUG.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/CYTOPLASMICDYNEIN1HEAVYCHAIN1_5NUG.mrc apix=1 res=3 center
+105107	1591563449	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5NUG.pdb	
+105107	1591563454	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/CYTOPLASMICDYNEIN1HEAVYCHAIN1_5NUG.mrc	
+105107	1591563454	2	-	
+105174	1591563469	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/1TUB.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULIN_1TUB.mrc apix=1 res=3 center
+105174	1591563470	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/1TUB.pdb	
+105174	1591563470	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULIN_1TUB.mrc	
+105174	1591563470	2	-	
+105239	1591563483	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6FJM.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_6FJM.mrc apix=1 res=3 center
+105239	1591563483	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6FJM.pdb	
+105239	1591563485	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_6FJM.mrc	
+105239	1591563485	2	-	
+105305	1591563490	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/3J8Y.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/KINESIN1HEAVYCHAIN_3J8Y.mrc apix=1 res=3 center
+105305	1591563490	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/3J8Y.pdb	
+105305	1591563491	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/KINESIN1HEAVYCHAIN_3J8Y.mrc	
+105305	1591563491	2	-	
+105373	1591563503	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6FKJ.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_6FKJ.mrc apix=1 res=3 center
+105373	1591563503	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6FKJ.pdb	
+105373	1591563505	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_6FKJ.mrc	
+105373	1591563505	2	-	
+105438	1591563520	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5OSK.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_5OSK.mrc apix=1 res=3 center
+105438	1591563520	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5OSK.pdb	
+105438	1591563521	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_5OSK.mrc	
+105438	1591563522	2	-	
+105504	1591563540	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6GF3.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_6GF3.mrc apix=1 res=3 center
+105504	1591563540	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6GF3.pdb	
+105504	1591563542	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_6GF3.mrc	
+105504	1591563542	2	-	
+105571	1591563553	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/1XI4.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/CLATHRINHEAVYCHAIN_1XI4.mrc apix=1 res=3 center
+105571	1591563553	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/1XI4.pdb	
+105571	1591563562	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/CLATHRINHEAVYCHAIN_1XI4.mrc	
+105571	1591563562	2	-	
+105647	1591563621	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5J2U.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_5J2U.mrc apix=1 res=3 center
+105647	1591563621	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5J2U.pdb	
+105647	1591563625	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_5J2U.mrc	
+105647	1591563625	2	-	
+105712	1591563633	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/4CK5.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1DCHAIN_4CK5.mrc apix=1 res=3 center
+105712	1591563633	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/4CK5.pdb	
+105712	1591563634	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1DCHAIN_4CK5.mrc	
+105712	1591563634	2	-	
+105777	1591563640	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/4UXY.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/ALPHATUBULIN_4UXY.mrc apix=1 res=3 center
+105777	1591563640	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/4UXY.pdb	
+105777	1591563640	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/ALPHATUBULIN_4UXY.mrc	
+105777	1591563641	2	-	
+105843	1591563649	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/4HNA.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHACHAIN_4HNA.mrc apix=1 res=3 center
+105843	1591563649	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/4HNA.pdb	
+105843	1591563650	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHACHAIN_4HNA.mrc	
+105843	1591563650	2	-	
+105908	1591563664	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/4TUY.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_4TUY.mrc apix=1 res=3 center
+105908	1591563664	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/4TUY.pdb	
+105908	1591563666	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_4TUY.mrc	
+105908	1591563666	2	-	
+105976	1591563679	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6S8L.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_6S8L.mrc apix=1 res=3 center
+105976	1591563679	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6S8L.pdb	
+105976	1591563681	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_6S8L.mrc	
+105976	1591563681	2	-	
+106041	1591563689	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6JCJ.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_6JCJ.mrc apix=1 res=3 center
+106041	1591563689	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6JCJ.pdb	
+106041	1591563691	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_6JCJ.mrc	
+106041	1591563691	2	-	
+106106	1591563707	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/4ATU.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINBETA2BCHAIN_4ATU.mrc apix=1 res=3 center
+106106	1591563707	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/4ATU.pdb	
+106106	1591563710	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINBETA2BCHAIN_4ATU.mrc	
+106106	1591563710	2	-	
+106173	1591563727	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5XXW.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1ACHAIN_5XXW.mrc apix=1 res=3 center
+106173	1591563727	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5XXW.pdb	
+106173	1591563734	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1ACHAIN_5XXW.mrc	
+106173	1591563734	2	-	
+106240	1591563750	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5MIO.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_5MIO.mrc apix=1 res=3 center
+106240	1591563750	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5MIO.pdb	
+106240	1591563751	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_5MIO.mrc	
+106240	1591563751	2	-	
+106307	1591563762	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6D88.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_6D88.mrc apix=1 res=3 center
+106307	1591563762	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6D88.pdb	
+106307	1591563764	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_6D88.mrc	
+106307	1591563764	2	-	
+106372	1591563774	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/3IYV.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/CLATHRINHEAVYCHAIN_3IYV.mrc apix=1 res=3 center
+106372	1591563774	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/3IYV.pdb	
+106372	1591563799	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/CLATHRINHEAVYCHAIN_3IYV.mrc	
+106372	1591563799	2	-	
+106463	1591563959	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5MF4.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_5MF4.mrc apix=1 res=3 center
+106463	1591563959	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5MF4.pdb	
+106463	1591563961	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_5MF4.mrc	
+106463	1591563961	2	-	
+106529	1591563977	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/3RYC.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHACHAIN_3RYC.mrc apix=1 res=3 center
+106529	1591563977	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/3RYC.pdb	
+106529	1591563979	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHACHAIN_3RYC.mrc	
+106529	1591563979	2	-	
+106594	1591563991	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5MM4.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/KINESIN5_5MM4.mrc apix=1 res=3 center
+106594	1591563992	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5MM4.pdb	
+106594	1591563993	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/KINESIN5_5MM4.mrc	
+106594	1591563993	2	-	
+106659	1591563999	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6B0L.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_6B0L.mrc apix=1 res=3 center
+106659	1591563999	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6B0L.pdb	
+106659	1591564000	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_6B0L.mrc	
+106659	1591564000	2	-	
+106724	1591564005	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/3J8X.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/KINESIN1HEAVYCHAIN_3J8X.mrc apix=1 res=3 center
+106724	1591564005	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/3J8X.pdb	
+106724	1591564006	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/KINESIN1HEAVYCHAIN_3J8X.mrc	
+106724	1591564006	2	-	
+106790	1591564023	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/3N2K.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHACHAIN_3N2K.mrc apix=1 res=3 center
+106790	1591564023	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/3N2K.pdb	
+106790	1591564025	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHACHAIN_3N2K.mrc	
+106790	1591564025	2	-	
+106857	1591564040	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6O5M.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_6O5M.mrc apix=1 res=3 center
+106857	1591564040	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6O5M.pdb	
+106857	1591564042	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_6O5M.mrc	
+106857	1591564042	2	-	
+106922	1591564052	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6RZA.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/CYTOPLASMICDYNEIN1HEAVYCHAIN1DYNEINHEAVYCHAIN7_6RZA.mrc apix=1 res=3 center
+106922	1591564052	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6RZA.pdb	
+106922	1591564054	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/CYTOPLASMICDYNEIN1HEAVYCHAIN1DYNEINHEAVYCHAIN7_6RZA.mrc	
+106922	1591564054	2	-	
+106990	1591564087	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5VFR.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/26SPROTEASOMENONATPASEREGULATORYSUBUNIT1_5VFR.mrc apix=1 res=3 center
+106990	1591564087	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5VFR.pdb	
+106990	1591564097	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/26SPROTEASOMENONATPASEREGULATORYSUBUNIT1_5VFR.mrc	
+106990	1591564097	2	-	
+107057	1591564114	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6E7B.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINBETA3CHAIN_6E7B.mrc apix=1 res=3 center
+107057	1591564114	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6E7B.pdb	
+107057	1591564115	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINBETA3CHAIN_6E7B.mrc	
+107057	1591564115	2	-	
+107122	1591564127	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6DPU.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_6DPU.mrc apix=1 res=3 center
+107122	1591564127	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6DPU.pdb	
+107122	1591564131	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_6DPU.mrc	
+107122	1591564131	2	-	
+107189	1591564149	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6FKL.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_6FKL.mrc apix=1 res=3 center
+107189	1591564149	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6FKL.pdb	
+107189	1591564151	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_6FKL.mrc	
+107189	1591564151	2	-	
+107255	1591564167	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6WVR.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_6WVR.mrc apix=1 res=3 center
+107255	1591564167	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6WVR.pdb	
+107255	1591564170	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_6WVR.mrc	
+107255	1591564170	2	-	
+107323	1591564179	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5LN3.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/26SPROTEASOMENONATPASEREGULATORYSUBUNIT2_5LN3.mrc apix=1 res=3 center
+107323	1591564179	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5LN3.pdb	
+107323	1591564187	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/26SPROTEASOMENONATPASEREGULATORYSUBUNIT2_5LN3.mrc	
+107323	1591564187	2	-	
+107388	1591564199	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5HNZ.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_5HNZ.mrc apix=1 res=3 center
+107388	1591564199	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5HNZ.pdb	
+107388	1591564200	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_5HNZ.mrc	
+107388	1591564200	2	-	
+107453	1591564205	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5HNY.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_5HNY.mrc apix=1 res=3 center
+107453	1591564205	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5HNY.pdb	
+107453	1591564207	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_5HNY.mrc	
+107453	1591564207	2	-	
+107519	1591564213	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/2HXF.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHACHAIN_2HXF.mrc apix=1 res=3 center
+107519	1591564213	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/2HXF.pdb	
+107519	1591564214	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHACHAIN_2HXF.mrc	
+107519	1591564214	2	-	
+107586	1591564220	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/3JAR.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_3JAR.mrc apix=1 res=3 center
+107586	1591564220	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/3JAR.pdb	
+107586	1591564225	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_3JAR.mrc	
+107586	1591564225	2	-	
+107651	1591564233	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/4CK6.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1DCHAIN_4CK6.mrc apix=1 res=3 center
+107651	1591564233	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/4CK6.pdb	
+107651	1591564233	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1DCHAIN_4CK6.mrc	
+107651	1591564233	2	-	
+107717	1591564239	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6CVN.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINBETACHAIN_6CVN.mrc apix=1 res=3 center
+107717	1591564239	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6CVN.pdb	
+107717	1591564240	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINBETACHAIN_6CVN.mrc	
+107717	1591564240	2	-	
+107783	1591564246	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/3J6E.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1ACHAIN_3J6E.mrc apix=1 res=3 center
+107783	1591564246	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/3J6E.pdb	
+107783	1591564253	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1ACHAIN_3J6E.mrc	
+107783	1591564254	2	-	
+107849	1591564270	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/2HXH.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHACHAIN_2HXH.mrc apix=1 res=3 center
+107849	1591564270	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/2HXH.pdb	
+107849	1591564271	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHACHAIN_2HXH.mrc	
+107849	1591564272	2	-	
+107915	1591564275	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5XXV.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1ACHAIN_5XXV.mrc apix=1 res=3 center
+107915	1591564275	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5XXV.pdb	
+107915	1591564282	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1ACHAIN_5XXV.mrc	
+107915	1591564282	2	-	
+107980	1591564294	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/4UUK.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/DYNAMIN1_4UUK.mrc apix=1 res=3 center
+107980	1591564294	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/4UUK.pdb	
+107980	1591564298	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/DYNAMIN1_4UUK.mrc	
+107980	1591564298	2	-	
+108049	1591564318	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6MLQ.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1ACHAIN_6MLQ.mrc apix=1 res=3 center
+108049	1591564318	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6MLQ.pdb	
+108049	1591564319	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1ACHAIN_6MLQ.mrc	
+108049	1591564319	2	-	
+108114	1591564322	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5MM7.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/KINESIN5_5MM7.mrc apix=1 res=3 center
+108114	1591564322	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5MM7.pdb	
+108114	1591564323	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/KINESIN5_5MM7.mrc	
+108114	1591564323	2	-	
+108179	1591564331	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/4F61.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHACHAIN_4F61.mrc apix=1 res=3 center
+108179	1591564331	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/4F61.pdb	
+108179	1591564336	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHACHAIN_4F61.mrc	
+108179	1591564336	2	-	
+108245	1591564355	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/4AQV.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1DCHAIN_4AQV.mrc apix=1 res=3 center
+108245	1591564355	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/4AQV.pdb	
+108245	1591564356	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1DCHAIN_4AQV.mrc	
+108245	1591564356	2	-	
+108310	1591564363	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/4ATX.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINBETA2BCHAIN_4ATX.mrc apix=1 res=3 center
+108310	1591564363	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/4ATX.pdb	
+108310	1591564364	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINBETA2BCHAIN_4ATX.mrc	
+108310	1591564364	2	-	
+108375	1591564370	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5LXS.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_5LXS.mrc apix=1 res=3 center
+108375	1591564370	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5LXS.pdb	
+108375	1591564372	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_5LXS.mrc	
+108375	1591564372	2	-	
+108440	1591564382	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5T0G.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/PROTEASOMESUBUNITALPHATYPE6_5T0G.mrc apix=1 res=3 center
+108440	1591564382	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5T0G.pdb	
+108440	1591564390	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/PROTEASOMESUBUNITALPHATYPE6_5T0G.mrc	
+108440	1591564390	2	-	
+108508	1591564405	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5IJ9.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_5IJ9.mrc apix=1 res=3 center
+108508	1591564405	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5IJ9.pdb	
+108508	1591564407	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_5IJ9.mrc	
+108508	1591564407	2	-	
+108573	1591564413	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6QTN.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_6QTN.mrc apix=1 res=3 center
+108573	1591564413	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6QTN.pdb	
+108573	1591564415	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_6QTN.mrc	
+108573	1591564415	2	-	
+108638	1591564426	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/3JAO.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1ACHAIN_3JAO.mrc apix=1 res=3 center
+108638	1591564426	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/3JAO.pdb	
+108638	1591564427	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1ACHAIN_3JAO.mrc	
+108638	1591564427	2	-	
+108703	1591564432	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6B0C.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_6B0C.mrc apix=1 res=3 center
+108703	1591564432	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6B0C.pdb	
+108703	1591564434	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_6B0C.mrc	
+108703	1591564434	2	-	
+108768	1591564442	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6RZB.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_6RZB.mrc apix=1 res=3 center
+108768	1591564442	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6RZB.pdb	
+108768	1591564443	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_6RZB.mrc	
+108768	1591564443	2	-	
+108833	1591564447	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/4EB6.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHACHAIN_4EB6.mrc apix=1 res=3 center
+108833	1591564447	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/4EB6.pdb	
+108833	1591564449	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHACHAIN_4EB6.mrc	
+108833	1591564449	2	-	
+108899	1591564462	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5T0I.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/26SPROTEASEREGULATORYSUBUNIT7_5T0I.mrc apix=1 res=3 center
+108899	1591564462	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5T0I.pdb	
+108899	1591564470	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/26SPROTEASEREGULATORYSUBUNIT7_5T0I.mrc	
+108899	1591564470	2	-	
+108966	1591564483	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/4UXP.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_4UXP.mrc apix=1 res=3 center
+108966	1591564483	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/4UXP.pdb	
+108966	1591564483	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_4UXP.mrc	
+108966	1591564483	2	-	
+109031	1591564488	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5N5N.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINBETACHAIN_5N5N.mrc apix=1 res=3 center
+109031	1591564488	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5N5N.pdb	
+109031	1591564493	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINBETACHAIN_5N5N.mrc	
+109031	1591564493	2	-	
+109096	1591564501	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/3JAW.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_3JAW.mrc apix=1 res=3 center
+109096	1591564501	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/3JAW.pdb	
+109096	1591564503	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_3JAW.mrc	
+109096	1591564503	2	-	
+109164	1591564507	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5ND4.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/KINESINLIKEPROTEINKIF20A_5ND4.mrc apix=1 res=3 center
+109164	1591564507	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5ND4.pdb	
+109164	1591564508	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/KINESINLIKEPROTEINKIF20A_5ND4.mrc	
+109164	1591564508	2	-	
+109229	1591564514	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5M8D.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_5M8D.mrc apix=1 res=3 center
+109229	1591564514	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5M8D.pdb	
+109229	1591564517	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_5M8D.mrc	
+109229	1591564517	2	-	
+109295	1591564528	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6CVJ.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_6CVJ.mrc apix=1 res=3 center
+109295	1591564528	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6CVJ.pdb	
+109295	1591564529	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_6CVJ.mrc	
+109295	1591564529	2	-	
+109360	1591564535	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6MZE.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1ACHAIN_6MZE.mrc apix=1 res=3 center
+109360	1591564536	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6MZE.pdb	
+109360	1591564545	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1ACHAIN_6MZE.mrc	
+109360	1591564545	2	-	
+109428	1591564564	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/4UXT.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_4UXT.mrc apix=1 res=3 center
+109428	1591564564	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/4UXT.pdb	
+109428	1591564564	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_4UXT.mrc	
+109428	1591564564	2	-	
+109494	1591564572	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5GJQ.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/PROTEASOMESUBUNITBETATYPE6_5GJQ.mrc apix=1 res=3 center
+109494	1591564572	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5GJQ.pdb	
+109494	1591564582	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/PROTEASOMESUBUNITBETATYPE6_5GJQ.mrc	
+109494	1591564582	2	-	
+109562	1591564599	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5J2T.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_5J2T.mrc apix=1 res=3 center
+109562	1591564599	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5J2T.pdb	
+109562	1591564602	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_5J2T.mrc	
+109562	1591564602	2	-	
+109628	1591564609	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5M5I.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1DCHAIN_5M5I.mrc apix=1 res=3 center
+109628	1591564609	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5M5I.pdb	
+109628	1591564609	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1DCHAIN_5M5I.mrc	
+109628	1591564609	2	-	
+109693	1591564614	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/1FFX.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/PROTEINTUBULIN_1FFX.mrc apix=1 res=3 center
+109693	1591564614	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/1FFX.pdb	
+109693	1591564615	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/PROTEINTUBULIN_1FFX.mrc	
+109693	1591564615	2	-	
+109763	1591564622	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5JH7.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_5JH7.mrc apix=1 res=3 center
+109763	1591564623	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5JH7.pdb	
+109763	1591564625	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_5JH7.mrc	
+109763	1591564625	2	-	
+109830	1591564630	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6BRF.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_6BRF.mrc apix=1 res=3 center
+109830	1591564630	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6BRF.pdb	
+109830	1591564632	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_6BRF.mrc	
+109830	1591564632	2	-	
+109896	1591564639	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6REV.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/NEURONALMIGRATIONPROTEINDOUBLECORTIN_6REV.mrc apix=1 res=3 center
+109896	1591564639	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6REV.pdb	
+109896	1591564641	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/NEURONALMIGRATIONPROTEINDOUBLECORTIN_6REV.mrc	
+109896	1591564641	2	-	
+109961	1591564645	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6QVE.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_6QVE.mrc apix=1 res=3 center
+109961	1591564645	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6QVE.pdb	
+109961	1591564647	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_6QVE.mrc	
+109961	1591564647	2	-	
+110026	1591564651	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6E7C.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINBETA2BCHAIN_6E7C.mrc apix=1 res=3 center
+110026	1591564651	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6E7C.pdb	
+110026	1591564652	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINBETA2BCHAIN_6E7C.mrc	
+110026	1591564652	2	-	
+110091	1591564656	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/3DCO.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/KINESINLIKEPROTEINNOD_3DCO.mrc apix=1 res=3 center
+110091	1591564656	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/3DCO.pdb	
+110091	1591564657	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/KINESINLIKEPROTEINNOD_3DCO.mrc	
+110091	1591564657	2	-	
+110156	1591564662	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5ND3.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/KINESINLIKEPROTEINKIF20A_5ND3.mrc apix=1 res=3 center
+110156	1591564662	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5ND3.pdb	
+110156	1591564663	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/KINESINLIKEPROTEINKIF20A_5ND3.mrc	
+110156	1591564663	2	-	
+110221	1591564667	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5OAM.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/KINESINLIKEPROTEINKIF18A_5OAM.mrc apix=1 res=3 center
+110221	1591564667	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5OAM.pdb	
+110221	1591564668	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/KINESINLIKEPROTEINKIF18A_5OAM.mrc	
+110221	1591564668	2	-	
+110286	1591564671	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/4X1K.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHACHAIN_4X1K.mrc apix=1 res=3 center
+110286	1591564671	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/4X1K.pdb	
+110286	1591564673	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHACHAIN_4X1K.mrc	
+110286	1591564673	2	-	
+110351	1591564678	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5M5N.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1DCHAIN_5M5N.mrc apix=1 res=3 center
+110351	1591564678	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5M5N.pdb	
+110351	1591564678	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1DCHAIN_5M5N.mrc	
+110351	1591564678	2	-	
+110416	1591564683	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/3JAL.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_3JAL.mrc apix=1 res=3 center
+110416	1591564683	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/3JAL.pdb	
+110416	1591564688	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_3JAL.mrc	
+110416	1591564688	2	-	
+110483	1591564696	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/4O4I.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_4O4I.mrc apix=1 res=3 center
+110483	1591564696	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/4O4I.pdb	
+110483	1591564698	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_4O4I.mrc	
+110483	1591564699	2	-	
+110549	1591564703	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/3N2G.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHACHAIN_3N2G.mrc apix=1 res=3 center
+110549	1591564703	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/3N2G.pdb	
+110549	1591564705	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHACHAIN_3N2G.mrc	
+110549	1591564705	2	-	
+110614	1591564710	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5OGC.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/KINESINLIKEPROTEINKIF18A_5OGC.mrc apix=1 res=3 center
+110614	1591564710	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5OGC.pdb	
+110614	1591564711	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/KINESINLIKEPROTEINKIF18A_5OGC.mrc	
+110614	1591564711	2	-	
+110680	1591564715	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/3J7I.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1ACHAIN_3J7I.mrc apix=1 res=3 center
+110680	1591564715	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/3J7I.pdb	
+110680	1591564715	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1ACHAIN_3J7I.mrc	
+110680	1591564715	2	-	
+110745	1591564719	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6O61.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_6O61.mrc apix=1 res=3 center
+110745	1591564719	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6O61.pdb	
+110745	1591564721	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_6O61.mrc	
+110745	1591564721	2	-	
+110812	1591564731	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6EVY.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_6EVY.mrc apix=1 res=3 center
+110812	1591564731	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6EVY.pdb	
+110812	1591564735	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_6EVY.mrc	
+110812	1591564736	2	-	
+110877	1591564744	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6BR1.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_6BR1.mrc apix=1 res=3 center
+110877	1591564744	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6BR1.pdb	
+110877	1591564746	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_6BR1.mrc	
+110877	1591564746	2	-	
+110943	1591564755	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6BBN.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_6BBN.mrc apix=1 res=3 center
+110943	1591564755	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6BBN.pdb	
+110943	1591564757	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_6BBN.mrc	
+110943	1591564757	2	-	
+111010	1591564764	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/2WBE.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1DCHAIN_2WBE.mrc apix=1 res=3 center
+111010	1591564764	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/2WBE.pdb	
+111010	1591564766	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1DCHAIN_2WBE.mrc	
+111010	1591564766	2	-	
+111076	1591564770	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6RF8.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/NEURONALMIGRATIONPROTEINDOUBLECORTIN_6RF8.mrc apix=1 res=3 center
+111076	1591564770	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6RF8.pdb	
+111076	1591564771	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/NEURONALMIGRATIONPROTEINDOUBLECORTIN_6RF8.mrc	
+111076	1591564772	2	-	
+111143	1591564776	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/3J2U.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/KINESINLIKEPROTEINKLP10A_3J2U.mrc apix=1 res=3 center
+111143	1591564776	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/3J2U.pdb	
+111143	1591564778	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/KINESINLIKEPROTEINKLP10A_3J2U.mrc	
+111143	1591564778	2	-	
+111208	1591564792	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5LYJ.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_5LYJ.mrc apix=1 res=3 center
+111208	1591564792	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5LYJ.pdb	
+111208	1591564794	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_5LYJ.mrc	
+111208	1591564794	2	-	
+111273	1591564806	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6EG5.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_6EG5.mrc apix=1 res=3 center
+111273	1591564806	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6EG5.pdb	
+111273	1591564808	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_6EG5.mrc	
+111273	1591564808	2	-	
+111339	1591564827	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6RLB.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/O6ALKYLGUANINEDNAALKYLTRANSFERASEMUTANTDYNC2H1VARIAN_6RLB.mrc apix=1 res=3 center
+111339	1591564827	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6RLB.pdb	
+111339	1591564830	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/O6ALKYLGUANINEDNAALKYLTRANSFERASEMUTANTDYNC2H1VARIAN_6RLB.mrc	
+111339	1591564830	2	-	
+111405	1591564843	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6KIQ.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/ALPHATUBULIN_6KIQ.mrc apix=1 res=3 center
+111405	1591564843	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6KIQ.pdb	
+111405	1591564845	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/ALPHATUBULIN_6KIQ.mrc	
+111405	1591564845	2	-	
+111470	1591564864	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/3J6F.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1ACHAIN_3J6F.mrc apix=1 res=3 center
+111470	1591564864	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/3J6F.pdb	
+111470	1591564871	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1ACHAIN_3J6F.mrc	
+111470	1591564871	2	-	
+111537	1591564882	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5SYF.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHACHAIN_5SYF.mrc apix=1 res=3 center
+111537	1591564882	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5SYF.pdb	
+111537	1591564883	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHACHAIN_5SYF.mrc	
+111537	1591564883	2	-	
+111602	1591564895	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6NNG.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_6NNG.mrc apix=1 res=3 center
+111602	1591564895	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6NNG.pdb	
+111602	1591564897	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_6NNG.mrc	
+111602	1591564897	2	-	
+111667	1591564908	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/3IZ0.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/ALPHATUBULINCHAINAFROMPDB1JFF_3IZ0.mrc apix=1 res=3 center
+111667	1591564908	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/3IZ0.pdb	
+111667	1591564910	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/ALPHATUBULINCHAINAFROMPDB1JFF_3IZ0.mrc	
+111667	1591564910	2	-	
+111737	1591564927	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5IYZ.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_5IYZ.mrc apix=1 res=3 center
+111737	1591564928	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5IYZ.pdb	
+111737	1591564930	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_5IYZ.mrc	
+111737	1591564930	2	-	
+111803	1591564945	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/4O2A.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_4O2A.mrc apix=1 res=3 center
+111803	1591564945	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/4O2A.pdb	
+111803	1591564947	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_4O2A.mrc	
+111803	1591564947	2	-	
+111870	1591564963	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/4O2B.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_4O2B.mrc apix=1 res=3 center
+111870	1591564963	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/4O2B.pdb	
+111870	1591564966	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_4O2B.mrc	
+111870	1591564966	2	-	
+111937	1591564993	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6MZF.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1ACHAIN_6MZF.mrc apix=1 res=3 center
+111937	1591564993	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6MZF.pdb	
+111937	1591565003	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1ACHAIN_6MZF.mrc	
+111937	1591565003	2	-	
+112004	1591565019	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5M5O.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1DCHAIN_5M5O.mrc apix=1 res=3 center
+112004	1591565019	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5M5O.pdb	
+112004	1591565019	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1DCHAIN_5M5O.mrc	
+112004	1591565019	2	-	
+112069	1591565022	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/4UY0.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_4UY0.mrc apix=1 res=3 center
+112069	1591565022	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/4UY0.pdb	
+112069	1591565022	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_4UY0.mrc	
+112069	1591565023	2	-	
+112134	1591565030	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6I2I.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_6I2I.mrc apix=1 res=3 center
+112134	1591565030	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6I2I.pdb	
+112134	1591565031	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_6I2I.mrc	
+112134	1591565031	2	-	
+112199	1591565048	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6MZG.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1ACHAIN_6MZG.mrc apix=1 res=3 center
+112199	1591565048	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6MZG.pdb	
+112199	1591565052	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1ACHAIN_6MZG.mrc	
+112199	1591565052	2	-	
+112268	1591565070	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5JVD.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_5JVD.mrc apix=1 res=3 center
+112268	1591565070	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5JVD.pdb	
+112268	1591565072	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_5JVD.mrc	
+112268	1591565072	2	-	
+112333	1591565090	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5M7G.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_5M7G.mrc apix=1 res=3 center
+112333	1591565090	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5M7G.pdb	
+112333	1591565093	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_5M7G.mrc	
+112333	1591565093	2	-	
+112402	1591565111	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/3JAT.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_3JAT.mrc apix=1 res=3 center
+112402	1591565111	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/3JAT.pdb	
+112402	1591565115	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_3JAT.mrc	
+112402	1591565115	2	-	
+112468	1591565125	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/3EDL.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/ALPHATUBULIN_3EDL.mrc apix=1 res=3 center
+112468	1591565125	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/3EDL.pdb	
+112468	1591565127	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/ALPHATUBULIN_3EDL.mrc	
+112468	1591565127	2	-	
+112533	1591565140	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6FII.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_6FII.mrc apix=1 res=3 center
+112533	1591565140	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6FII.pdb	
+112533	1591565142	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_6FII.mrc	
+112533	1591565143	2	-	
+112599	1591565158	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6S8K.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_6S8K.mrc apix=1 res=3 center
+112599	1591565158	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6S8K.pdb	
+112599	1591565163	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_6S8K.mrc	
+112599	1591565163	2	-	
+112667	1591565170	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6TA4.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINBETACHAIN_6TA4.mrc apix=1 res=3 center
+112667	1591565170	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6TA4.pdb	
+112667	1591565171	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINBETACHAIN_6TA4.mrc	
+112667	1591565171	2	-	
+112733	1591565182	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/4YJ3.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_4YJ3.mrc apix=1 res=3 center
+112733	1591565182	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/4YJ3.pdb	
+112733	1591565184	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_4YJ3.mrc	
+112733	1591565184	2	-	
+112799	1591565201	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/4TV9.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_4TV9.mrc apix=1 res=3 center
+112799	1591565201	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/4TV9.pdb	
+112799	1591565203	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_4TV9.mrc	
+112799	1591565203	2	-	
+112864	1591565214	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5EYP.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHACHAIN_5EYP.mrc apix=1 res=3 center
+112864	1591565214	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5EYP.pdb	
+112864	1591565215	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHACHAIN_5EYP.mrc	
+112864	1591565215	2	-	
+112930	1591565224	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/4UUD.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/DYNAMIN1_4UUD.mrc apix=1 res=3 center
+112930	1591565224	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/4UUD.pdb	
+112930	1591565227	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/DYNAMIN1_4UUD.mrc	
+112930	1591565228	2	-	
+112996	1591565244	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5M54.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/CALMODULINREGULATEDSPECTRINASSOCIATEDPROTEIN1_5M54.mrc apix=1 res=3 center
+112996	1591565244	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5M54.pdb	
+112996	1591565246	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/CALMODULINREGULATEDSPECTRINASSOCIATEDPROTEIN1_5M54.mrc	
+112996	1591565246	2	-	
+113061	1591565254	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6VPP.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1ACHAIN_6VPP.mrc apix=1 res=3 center
+113061	1591565254	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6VPP.pdb	
+113061	1591565256	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1ACHAIN_6VPP.mrc	
+113061	1591565256	2	-	
+113127	1591565264	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6QUS.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_6QUS.mrc apix=1 res=3 center
+113127	1591565264	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6QUS.pdb	
+113127	1591565265	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_6QUS.mrc	
+113127	1591565265	2	-	
+113192	1591565274	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6QVJ.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/CALMODULINREGULATEDSPECTRINASSOCIATEDPROTEIN1_6QVJ.mrc apix=1 res=3 center
+113192	1591565275	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6QVJ.pdb	
+113192	1591565276	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/CALMODULINREGULATEDSPECTRINASSOCIATEDPROTEIN1_6QVJ.mrc	
+113192	1591565277	2	-	
+113258	1591565291	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6BJC.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_6BJC.mrc apix=1 res=3 center
+113258	1591565291	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6BJC.pdb	
+113258	1591565296	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_6BJC.mrc	
+113258	1591565296	2	-	
+113325	1591565306	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/3J1U.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/CYTOPLASMICDYNEIN1HEAVYCHAIN1SERYLTRNASYNTHETAS_3J1U.mrc apix=1 res=3 center
+113325	1591565306	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/3J1U.pdb	
+113325	1591565307	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/CYTOPLASMICDYNEIN1HEAVYCHAIN1SERYLTRNASYNTHETAS_3J1U.mrc	
+113325	1591565307	2	-	
+113390	1591565323	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6F7C.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_6F7C.mrc apix=1 res=3 center
+113390	1591565324	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6F7C.pdb	
+113390	1591565327	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_6F7C.mrc	
+113390	1591565327	2	-	
+113455	1591565338	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/4X1I.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHACHAIN_4X1I.mrc apix=1 res=3 center
+113455	1591565338	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/4X1I.pdb	
+113455	1591565340	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHACHAIN_4X1I.mrc	
+113455	1591565340	2	-	
+113522	1591565349	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/3DU7.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1CCHAIN_3DU7.mrc apix=1 res=3 center
+113522	1591565349	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/3DU7.pdb	
+113522	1591565350	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1CCHAIN_3DU7.mrc	
+113522	1591565351	2	-	
+113589	1591565372	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6FJF.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_6FJF.mrc apix=1 res=3 center
+113589	1591565372	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6FJF.pdb	
+113589	1591565374	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_6FJF.mrc	
+113589	1591565375	2	-	
+113657	1591565381	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/4YE8.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/GLUTAMINETRNALIGASE_4YE8.mrc apix=1 res=3 center
+113657	1591565381	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/4YE8.pdb	
+113657	1591565382	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/GLUTAMINETRNALIGASE_4YE8.mrc	
+113657	1591565382	2	-	
+113722	1591565395	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/4O4J.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_4O4J.mrc apix=1 res=3 center
+113722	1591565395	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/4O4J.pdb	
+113722	1591565397	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_4O4J.mrc	
+113722	1591565397	2	-	
+113789	1591565414	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6DPW.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_6DPW.mrc apix=1 res=3 center
+113789	1591565415	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6DPW.pdb	
+113789	1591565421	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_6DPW.mrc	
+113789	1591565421	2	-	
+113856	1591565436	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/4O4H.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_4O4H.mrc apix=1 res=3 center
+113856	1591565436	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/4O4H.pdb	
+113856	1591565438	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_4O4H.mrc	
+113856	1591565438	2	-	
+113922	1591565445	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6VPO.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1ACHAIN_6VPO.mrc apix=1 res=3 center
+113922	1591565445	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6VPO.pdb	
+113922	1591565446	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1ACHAIN_6VPO.mrc	
+113922	1591565446	2	-	
+113987	1591565453	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/3HKC.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHACHAIN_3HKC.mrc apix=1 res=3 center
+113987	1591565453	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/3HKC.pdb	
+113987	1591565455	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHACHAIN_3HKC.mrc	
+113987	1591565455	2	-	
+114052	1591565470	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6GX7.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHACHAIN_6GX7.mrc apix=1 res=3 center
+114052	1591565470	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6GX7.pdb	
+114052	1591565472	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHACHAIN_6GX7.mrc	
+114052	1591565472	2	-	
+114117	1591565480	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6GVN.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHACHAIN_6GVN.mrc apix=1 res=3 center
+114117	1591565480	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6GVN.pdb	
+114117	1591565481	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHACHAIN_6GVN.mrc	
+114117	1591565481	2	-	
+114183	1591565489	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5ZXH.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_5ZXH.mrc apix=1 res=3 center
+114183	1591565489	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5ZXH.pdb	
+114183	1591565491	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1BCHAIN_5ZXH.mrc	
+114183	1591565491	2	-	
+114250	1591565502	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6MLR.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1ACHAIN_6MLR.mrc apix=1 res=3 center
+114250	1591565502	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6MLR.pdb	
+114250	1591565503	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHA1ACHAIN_6MLR.mrc	
+114250	1591565503	2	-	
+114315	1591565515	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/3UT5.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHACHAIN_3UT5.mrc apix=1 res=3 center
+114315	1591565515	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/3UT5.pdb	
+114315	1591565517	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHACHAIN_3UT5.mrc	
+114315	1591565517	2	-	
+115844	1591574148	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6U0H.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHACHAIN_6U0H.mrc apix=1 res=3 center
+115844	1591574148	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6U0H.pdb	
+115844	1591574149	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHACHAIN_6U0H.mrc	
+115844	1591574150	2	-	
+115910	1591574156	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5UCY.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHACHAIN_5UCY.mrc apix=1 res=3 center
+115910	1591574156	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5UCY.pdb	
+115910	1591574157	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHACHAIN_5UCY.mrc	
+115910	1591574157	2	-	
+115975	1591574167	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6U0T.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHACHAIN_6U0T.mrc apix=1 res=3 center
+115975	1591574167	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6U0T.pdb	
+115975	1591574172	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHACHAIN_6U0T.mrc	
+115975	1591574172	2	-	
+116042	1591574184	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6U0U.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHACHAIN_6U0U.mrc apix=1 res=3 center
+116042	1591574184	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/6U0U.pdb	
+116042	1591574189	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHACHAIN_6U0U.mrc	
+116042	1591574189	2	-	
+116107	1591574202	1	98199	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5UBQ.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHACHAIN_5UBQ.mrc apix=1 res=3 center
+116107	1591574202	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/5UBQ.pdb	
+116107	1591574205	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec/TUBULINALPHACHAIN_5UBQ.mrc	
+116107	1591574205	2	-	
+77285	1593110712	1	76834	pdb2mrc /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec_only/2CG9.pdb /home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec_only/ATPDEPENDENTMOLECULARCHAPERONEHSP82_2CG9.mrc apix=1 res=3 center
+77285	1593110712	10	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec_only/2CG9.pdb	
+77285	1593110713	11	/home/cns-mccafferty/NozPiker/data/tetts_F15_massSpec_only/ATPDEPENDENTMOLECULARCHAPERONEHSP82_2CG9.mrc	
+77285	1593110713	2	-	
