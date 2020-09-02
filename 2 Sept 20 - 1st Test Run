@@ -1,0 +1,50 @@
+2 Sept 20 - 1st Test Run
+
+Goal is to ensure TF_Run.ipynb works from my end.
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+Issue #1: Error in "Train Model this can be used with either of the above models"
+  PermissionDeniedError: /home/cns-mccafferty/NozPiker/data/models/Multi_Train.h5/w/variables/variables_temp_dcda2592e6954d60b57013c738c1339f; Permission denied [Op:SaveV2]
+  
+Solution:
+  Turns out there is a path based variable in "Imports and Parameters" in cell 3.
+  I have now changed variable DATA_DIR to '/local/home/rmccool/NozPiker/data/tetts_F15_massSpec_only/'
+  This removed a reference to the same folder in Caitie's directory.
+
+Future issues with this solution:
+  This is still a path setting variable, so it will raise issues for anyone else who trys to run this set of code.
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+Issue #2: The new pathway prevents pulling the files from Caitie's directory in the "Fetching pdbs and converting to images" section.
+
+Solution:
+  Running the following code in terminal from /local/home/rmccool : cp -r /home/cns-mccafferty/NozPiker.
+  
+Future issues with this solution:
+  Not sure if the whole file downloaded, but the needed parts for this section have been downloaded to my file. This means anyone who uses fix to Issue #1 above will also need the fix to Issue #2.
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+Observation #1: Baseline: Accuracy » Training - Near 1.0, Validation - Near 0.75; Loss » Training - Near 0.0, Validation - Near 1.25
+
+––––––––––––––––
+
+Issue #3: "Prepare validation on real data" box 9 throws IndexError: list index out of range
+
+Tracing:
+  Error seems to arise from the fact that class_name is given attribute [13], but there are more than 13 classes. 
+  Tracing the variable class_name brings me to "Fetching pdbs and converting to images" box 7, code - class_names = list(set([key[0] for key in store]))
+  I need to figure out what setting the key to zero does
+  Checking what printing class_names provides.
+  - Runs indefinitely
+  Ran class_names[2], [5], [7]
+  - Gives a single protein name, not sure what the point of this is. Apparently it is just calling one of the class names from the created list. Will email Caitie to find out.
+
+Solution: 
+  Will have to figure out what the goal of this is. 
+  
+–––––––––––––––
+
+Everything seems to run fine now. Will continue by trying to learn more about Neural Networks.
