@@ -47,4 +47,4 @@ Solution:
   
 –––––––––––––––
 
-Everything seems to run fine now. Will continue by trying to learn more about Neural Networks.
+Issue with Complex run. Has 4 parameters and 3 are expected in 2nd to last cell. Need to fix this. Also need to remove Caitie's "check" cells at bottom.
