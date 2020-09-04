@@ -1,0 +1,50 @@
+4 Sept 20 - Neural Net Vids
+
+Picking up on DeepLizard course:
+
+Notes: 
+
+The fact that the training set needs to be representative of the real world set is reminiscent of statistics.
+I wonder if there are some statistical methods that could be used to improve the network.
+
+It would be nice to find a way to be able to use all models in pdb but still not have those highly present proteins be overrepresetned in the neural network
+This would allow the best fit possible without having a "random guess of the majority" effect.
+
+Augmentation is useful if your sample is overrepresented by a specific type of image within a category (e.g. all dog photos facing to right, so augment some photos to face left)
+  How to Video: https://www.youtube.com/watch?v=14syUbL16k4
+
+Underfitting - when training accuracy is low and/or the loss is high
+- Basically make a more complex model (opposite of overfitting)
+
+Could we use an autoencoder on pdb files to augment our data?
+  IDEA: Maybe we could use autoencoder to increase our sample size for the under-represented proteins on the PDB?
+  IDEA: Normalizing data may allow us to use all samples from PDB without causing an issue due to under representation. Actually, I think this only address the range of values describing inputs
+    May solve issue of certain images having more pixels
+
+Convolution Neurol Networks may be useful 
+  They are made to pick out specific featuers that may be simplified from a more complex image (e.g. a dog face from pictures of dogs)
+  Need Zero-padding to prevent loss of useful info (CNN removes a 1x1 pixel area from edge of image)
+    Set padding = same ; this keeps image same size as at start. Placed in layer definition array
+    
+Max Pooling works to recognize the largest pixel value for a pre-set pixel "pooled" group
+  May be quicker and may redcue over fitting
+  Average pooling is another alternative
+  
+Unstable gradient: due to the way the math of gradients is [erformed, a gradient adjustment may become too small to be useful or too large, thereby preventing gradient optimization
+  Addressed via the kernel_initializer parameter (example = glorot_uniform)
+  
+Bias
+  Learnable parameter that decides when to activate certain neurons
+  
+# of learnable parameters = inputs*nodes+biases (calculated per non-input layer as input has 0 inputs)
+For a CNN learnable layer = (#nodes or  of filters)*(#of filters*size of filter)+(#of filters)
+
+Batche Size
+  Larger runs faster but may be too intensive for a a computer's CPU
+  Larger batch sizes may also lower teh quality of the training, resulting in worse generalization
+  
+Fine tuning
+  You can use a NN optimized for a similar problem set and freeze certain layers so that new layers may be added in to adjust the task to your data set while maintaining the advantages of the old system
+  
+  
+IDEA: What if we first trained a Neur. Net to divide proteins into classes (e.g. globular or fibrous proteins) then ran it through a separate NN to pick exact protein?
