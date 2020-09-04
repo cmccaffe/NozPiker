@@ -1,0 +1,33 @@
+3 Sept 20 - Learning About Keras
+
+This course was recommended by a Keras specific video, so I will begin here:
+https://deeplizard.com/learn/video/gZmobeGL0Yg
+
+Notes:
+
+We are doing supervised Deep Learning as we are providing the possible labels (i.e. the protein that is present).
+Dense is the most basic type of layer and it connects each input to the outputs. Essentially, this is the number of nodes, or neurons
+  This tells us how many parameters are analyzed in each datum
+Activation is a type of non-function that helps decide how connections are made.
+"a convolutional layer is usually used in models that are doing work with image data.
+  Recurrent layers are used in models that are doing work with time series data,
+  and fully connected layers, as the name suggests, fully connects each input to each output within its layer."
+Our last Dense layer will be the number of distinct proteins detected by MS
+
+Activation Functions
+  They alter input data
+  Resembles a 'neuron firing'. Decides how much of a neuron fire is occurring given the input
+  
+The goal of training is really just to optimize weights of the neural network so as to reduce the loss (or the percentage of mis-asigned data)
+  Optimization of these weights seems to follow a similar pattern to that for solving a multi-variable equation as described in P-Chem (Thermo). This method involves taking the gradient of the function.
+  
+ Learning rate
+  Too large misses best optimization
+  Too small and it takes too long. 
+  This parameter should be altered last to speed up troublshooting in the early stages.
+
+Used the following video:
+https://www.youtube.com/watch?v=qFJeN9V1ZsI
+
+Notes:
+
