@@ -1,0 +1,12 @@
+5 Sept 20 - Keras Video
+
+Updated TF_Run to include reminder as it appears the following line is calling to a variable that pulls from our test data (I don't think this is good practice)
+   validation_data = (test_images_sm,test_labels) #are we using test data as validation data? We can't crossover like that.,
+   
+ We have no scaler, may want to add after shuffling the data:
+  scaler = MinMaxScaler(feature_range=(0,1))
+  scaled_train_samples = scaler.fit_transform(train_samples.reshape(-1,1))
+      This may be unneccessary due to the nature of our data? Since we are using images, I'm not sure it will apply
+      
+A
+  
