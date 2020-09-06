@@ -1,0 +1,14 @@
+5 Sept 20 - PDB Classes
+
+Goal: To determine the info provided by PDB files that may be used to develop stepwise NN
+
+Possible classifications:
+  Classification
+    Seems like a poor choice, classifications are usually chosen based on protein function and may not directly correlate to specific 2D classifications
+  Global Symmetry
+  Global stoichiommetry
+  AUTHOR DETERMINED BIOLOGICAL UNIT (in PDB file)
+  SOFTWARE DETERMINED QUATERNARY STRUCTURE: (in PDB file)
+  MOLECULE (shows up in cryo PDB)
+  
+May need to data mine from actual PDB website as the global symmetry seems most unique but isn't located within pdb file
